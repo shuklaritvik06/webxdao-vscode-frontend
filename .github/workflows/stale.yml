@@ -13,6 +13,6 @@ jobs:
           stale-issue-message: "This issue is stale because it has been open 14 days with no activity."
           stale-pr-message: "This PR is stale because it has been open 14 days with no activity."
           stale-issue-label: "stale-issue"
-          stale-pr-label: "stale-pr"
+          stale-pr-label: "stale"
           days-before-stale: 14
           days-before-close: 14
