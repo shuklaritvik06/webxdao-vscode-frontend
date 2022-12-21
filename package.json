@@ -12,7 +12,7 @@
   "activationEvents": [
     "onCommand:react-webview.start"
   ],
-  "publisher": "shuklaritvik06",
+  "publisher": "WebXDAO",
   "main": "./build/extension.js",
   "contributes": {
     "commands": [

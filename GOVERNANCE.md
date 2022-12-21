@@ -26,7 +26,7 @@ The extension and its leadership embrace the following values:
 
 ## Maintainers
 
-Extension Maintainers have write access to the [project GitHub repository](https://github.com/shuklaritvik06/webxdao-vscode).
+Extension Maintainers have write access to the [project GitHub repository](https://github.com/WebXDAO/webxdao-vscode-frontend).
 They can merge their own patches or patches from others. The current maintainers
 can be found in [OWNERS](./CODEOWNERS). Maintainers collectively manage the project's
 resources and contributors.
